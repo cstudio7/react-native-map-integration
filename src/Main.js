@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {Text, View, StatusBar} from 'react-native';
+import {View, StatusBar} from 'react-native';
 
 import MapViewContainer from "./components/MapViewContainer";
 import {showModal} from "./components/modal/Modal";
